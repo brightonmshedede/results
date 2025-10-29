@@ -1,0 +1,482 @@
+POST /umis/studentportal/result_slip.php HTTP/1.1
+Host: studentportal.mku.ac.ke
+Cookie: unipac=5136a97625723cde860c867b5f595941; PHPSESSID=6d5d836tqghd3k221pqn6kflr5; cookiesession1=678A8C496BFD798101474E37EEC10D96
+Content-Length: 369
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Not=A?Brand";v="24", "Chromium";v="140"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ChroPOST /umis/studentportal/result_slip.php HTTP/1.1
+Host: studentportal.mku.ac.ke
+Cookie: unipac=5136a97625723cde860c867b5f595941; PHPSESSID=6d5d836tqghd3k221pqn6kflr5; cookiesession1=678A8C496BFD798101474E37EEC10D96
+Cache-Control: max-age=0
+Sec-Ch-Ua: "Chromium";v="141", "Not?A_Brand";v="8"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Referer: HTTP/1.1 200 OK
+Server: nginx
+Date: Wed, 29 Oct 2025 08:20:33 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.4.16
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Length: 22325
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+	<meta name="author" content="Mount Kenya University" />
+	<meta name="description" content="Student Management Information System" />
+	<meta name="keywords" content="Student, Students, Portal, University, College, Education" />	
+	<link rel="shortcut icon" href="/umis/studentportal/images/portal_images/favicon.ico" type="image/x-icon" />
+	<style type="text/css"> 
+	@import url(/umis/studentportal/styles/main.css);	</style>
+	<title>Mount Kenya University : Students Online Portal</title>
+</head>
+<body >
+<div id="content">
+<div id="top_info">
+
+<table border="0" align="center" cellspacing="0" cellpadding="0" width="100%">
+<tr> 
+  <td align="left" width="1%">
+<a href="/umis/studentportal/index.php" title="Mount Kenya University Home"> 
+ <img src="/umis/studentportal/./images/portal_images/mku_logo.jpg" class="logoimg"/></a> 
+ </td> 
+ <td align="left">
+<table border="0" align="left" cellspacing="0" cellpadding="0" >
+<tr> 
+ <td align="left"> 
+<h1> 
+<a href="/umis/studentportal/" title="Mount Kenya University Home Page"> 
+Mount Kenya University </a> 
+ </h1> </td> 
+  </tr> 
+<tr> 
+ <td align="left"> 
+Unlocking Infinite Possibilities  
+  </td> 
+  </tr> 
+</table>
+  </td> 
+  </tr> 
+</table>
+</div>	
+
+<div id="navigation" role="navigation">
+ <ul id="navigation-primary" class="ult-section primary">   <li class="ult-position ">  <a href="index.php?menu=portal_home" >Home</a> 
+ </li>  <li class="ult-position ">  <a href="personal_information.php" >Information Update</a> 
+ </li>  <li class="ult-position ">  <a href="fees_statement.php" >Fees</a> 
+ </li>  <li class="ult-position ">  <a href="teaching_timetable.php" >Timetables</a> 
+ </li>  <li class="ult-position ">  <a href="course_registration.php" >Course Registration</a> 
+ </li>  <li class="ult-position  active">  <a href="result_slip.php"  class="first">Results</a> 
+ </li>  <li class="ult-position ">  <a href="my_requests_menu.php" >My Requests</a> 
+ </li>  <li class="ult-position ">  <a href="index.php?smisLogout=true" >Sign Out</a> 
+ </li>  
+</ul><!-- end: .primary -->
+  <ul id="navigation-secondary" class="ult-section secondary">   <li class="ult-position  active">  <a href="result_slip_student.php"  class="first">Student Result Slip</a> 
+ </li>  <li class="ult-position ">  <a href="http://distance.mku.ac.ke/" target="_blank" > E-Learning Portal </a> 
+ </li>  <li class="ult-position ">  <a href="https://ibank.gtbank.co.ke/newapps/gtcollectportal/index.aspx" target="_blank" > MPesa Trans. Validation </a> 
+ </li> 
+ </ul><!-- end: .secondary --> 
+ </div><!-- end: #navigation --> 	  
+<div id="left">
+	<div class="left_articles">
+	<div> <p>BEDS/2022/71193 BWANAHANI MOHAMED HALIMA  &nbsp;  &nbsp;  &nbsp;  &nbsp; Nakuru (Day) , Nakuru Campus</p></div><p class="center">
+<table border="0" align="center" cellspacing="0" cellpadding="0">
+<tr><td align="center"> BEDSCI Bachelor of Education (Science)</td> </tr> 
+<tr><td align="center"> <p>  While every effort is made to ensure that details are correct and up-to-date, <br />  please reconfirm with your Faculty/School/Institute office in case of any missing unit. <br /> Please note that NOT ALL Faculties, Schools and Institutes have released their results online. </p></td> </tr> 
+<tr><td align="center"> 
+<table border="0" align="center" cellspacing="0" cellpadding="0" width=100% >
+  <tr> <td align="center"><a href="/umis/studentportal/result_slip.php?realm=level">Order Results by Level </a> &nbsp; &nbsp; &nbsp; <a href="students_transcripts_prov_pdf.php?realm=academicTranscript&regNo=BEDS/2022/71193&startStudyLevel=1&endStudyLevel=10"> Print Results Slip </a> &nbsp; </td> </tr> 
+</table>
+ 
+ 
+<table border="1" align="center" cellspacing="0"  cellpadding="0" width=100%>
+ <tr> <td align="left" colspan="7"> <B>2024/2025  June Special </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH2207 &nbsp; </td> 
+<td > &nbsp; Theory of Spectroscopic Methods &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 21 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  1 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BMA4109 &nbsp; </td> 
+<td > &nbsp; Topology I &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 40 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  2 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2024/2025  May/Aug </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; EBCU001 &nbsp; </td> 
+<td > &nbsp; Research Methodology &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 52 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  3 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2024/2025  Jan/Apr </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH2202 &nbsp; </td> 
+<td > &nbsp; Chemical Thermodynamics &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 41 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  4 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEM1108 &nbsp; </td> 
+<td > &nbsp; Fundamentals of Competency Based Education &nbsp; </td> 
+<td align="right"> 45 </td> 
+<td align="right"> 50 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  5 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BMA3104 &nbsp; </td> 
+<td > &nbsp; Time Series Analysis &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 60 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  10 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BSE4219 &nbsp; </td> 
+<td > &nbsp; Introduction to Special Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 59 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  7 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2024/2025  Oct Special </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH3103 &nbsp; </td> 
+<td > &nbsp; Comparative Study of S and P Block Elements &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 44 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  8 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEM2101 &nbsp; </td> 
+<td > &nbsp; Curriculum Development &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 46 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  9 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2024/2025  Sep/Dec </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH4236 &nbsp; </td> 
+<td > &nbsp; Environmental Chemistry For Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 60 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  10 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEP3101 &nbsp; </td> 
+<td > &nbsp; Educational Measurement and Evaluation &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 70 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; A &nbsp;  &nbsp; </td> 
+<td align="right">  11 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BET3210 &nbsp; </td> 
+<td > &nbsp; Subject Methods Mathematics &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 70 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; A &nbsp;  &nbsp; </td> 
+<td align="right">  12 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BET3212 &nbsp; </td> 
+<td > &nbsp; Subject Methods Chemistry &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 46 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  13 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 5 &nbsp; </td> 
+<td align="left">  &nbsp; BMA2108 &nbsp; </td> 
+<td > &nbsp; Ordinary Differential Equation (ode) I &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 24 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  14 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2023/2024  May/Aug </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH3203 &nbsp; </td> 
+<td > &nbsp; The Chemistry of Aromatic Compounds &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 16 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  15 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEM4109 &nbsp; </td> 
+<td > &nbsp; Educational Administration and Planning &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 55 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  16 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BEP2201 &nbsp; </td> 
+<td > &nbsp; Educational Guidance and Counseling &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 58 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  17 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BEP3102 &nbsp; </td> 
+<td > &nbsp; Comparative Education and Emerging Issues &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 64 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  18 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2023/2024  Jan/Apr </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH2108 &nbsp; </td> 
+<td > &nbsp; Organic Chemistry Ii &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 18 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  19 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEM1202 &nbsp; </td> 
+<td > &nbsp; Fundamentals of Pedagogy &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 40 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  20 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BET4108 &nbsp; </td> 
+<td > &nbsp; Educational Technology &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 57 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  21 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BMA2103 &nbsp; </td> 
+<td > &nbsp; Linear Algebra I &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 32 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  22 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2023/2024  Sep/Dec </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BEP3201 &nbsp; </td> 
+<td > &nbsp; Psychology of Teaching and Learning &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 46 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  23 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BET2101 &nbsp; </td> 
+<td > &nbsp; Peer Teaching and Media &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 50 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  24 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BET2201 &nbsp; </td> 
+<td > &nbsp; Instructional Methods &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 47 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  25 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BMA1204 &nbsp; </td> 
+<td > &nbsp; Calculus Ii &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 69 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  26 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2022/2023  May/Aug </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH1108 &nbsp; </td> 
+<td > &nbsp; Organic Chemistry I &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 30 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  27 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEM2209 &nbsp; </td> 
+<td > &nbsp; Economics of Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 53 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  28 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BEM4101 &nbsp; </td> 
+<td > &nbsp; Introduction to Environmental Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 48 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  29 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BMA1205 &nbsp; </td> 
+<td > &nbsp; Analytical Geometry &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 43 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  30 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2022/2023  Jan/Apr </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH1104 &nbsp; </td> 
+<td > &nbsp; Physical Chemistry &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 39 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  31 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEP1103 &nbsp; </td> 
+<td > &nbsp; Philosophy of Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 61 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  32 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BEP4108 &nbsp; </td> 
+<td > &nbsp; Sociology of Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 60 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  33 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BHU1101 &nbsp; </td> 
+<td > &nbsp; Introduction to Critical Thinking and Logic &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 62 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  34 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 5 &nbsp; </td> 
+<td align="left">  &nbsp; BMA1102 &nbsp; </td> 
+<td > &nbsp; Calculus I &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 43 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  35 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 6 &nbsp; </td> 
+<td align="left">  &nbsp; BUCU008 &nbsp; </td> 
+<td > &nbsp; Fundamentals of Digital and Information Literacy Skills &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 63 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  36 &nbsp; </td> 
+ </tr> 
+<tr> <td align="left" colspan="7"> <B>2022/2023  Sep/Dec </B> </td> </tr> 
+ <tr align="center"> <td > &nbsp; </td>  <td align="center"> <B>Code </B> </td>  <td align="center"> <B>Course Title </B> </td>   <td align="center"> <B>Academic <BR>Hours</B> </td>   <td align="center"> <B>Marks <BR>&nbsp; % &nbsp; </B> </td>  <td align="center"> <B>Grade </B> </td>  <td align="center"> <B>Cumulative</B> </td>   </tr> 
+<tr align="left">  <td align="right"> 1 &nbsp; </td> 
+<td align="left">  &nbsp; BCH1103 &nbsp; </td> 
+<td > &nbsp; Principles of Inorganic Chemistry &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 26 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; F &nbsp;  &nbsp; </td> 
+<td align="right">  37 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 2 &nbsp; </td> 
+<td align="left">  &nbsp; BEP1101 &nbsp; </td> 
+<td > &nbsp; History of Education &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 64 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; B &nbsp;  &nbsp; </td> 
+<td align="right">  38 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 3 &nbsp; </td> 
+<td align="left">  &nbsp; BEP1102 &nbsp; </td> 
+<td > &nbsp; Human Growth and Development &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 59 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  39 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 4 &nbsp; </td> 
+<td align="left">  &nbsp; BEP1104 &nbsp; </td> 
+<td > &nbsp; Introduction to Educational Psychology &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 72 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; A &nbsp;  &nbsp; </td> 
+<td align="right">  40 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 5 &nbsp; </td> 
+<td align="left">  &nbsp; BMA1111 &nbsp; </td> 
+<td > &nbsp; Basic Mathematics &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 52 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; C &nbsp;  &nbsp; </td> 
+<td align="right">  41 &nbsp; </td> 
+ </tr> 
+<tr align="left">  <td align="right"> 6 &nbsp; </td> 
+<td align="left">  &nbsp; BUCU001 &nbsp; </td> 
+<td > &nbsp; Communication Skills &nbsp; </td> 
+<td align="right"> 42 </td> 
+<td align="right"> 43 &nbsp; </td> 
+<td >  &nbsp;  &nbsp; D &nbsp;  &nbsp; </td> 
+<td align="right">  42 &nbsp; </td> 
+ </tr> 
+</table>
+</td> </tr> 
+</table>
+</p>	</div>
+</div>
+		<div id="footer" >
+			<p class="right">&copy; 2025 <a href=""> 
+			Mount Kenya University</a> </p>
+			
+		</div>
+	  </div>
+</body>
+</html>
+
+
